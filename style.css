@@ -25,7 +25,8 @@ h1{
     height: 100%;
 }
 
-.abt{    
+.abt{
+    margin: auto;
     width: 50%;
     height: fit-content;
     text-align: center;
